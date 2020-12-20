@@ -1,0 +1,8 @@
+{
+    "description":"发布 v1.9，优化代码，改进断网检测，支持导入  Clash proxy-provider 配置以及订阅链接。",
+    "format":".lzma",
+    "main":"\\winXray.exe",
+    "updater":"\\winXray.exe",
+    "url":"https://raw.githubusercontent.com/winXray/winXray/master/release/update/",
+    "version":"1.9"
+}
